@@ -35,16 +35,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 全球顶级投资人
-    description                           : 除股神巴菲特和其搭档查理芒格以外，还包含霍华德马克思，纳西姆尼古拉斯塔勒布
+  - title                                 : IOS全平台
+    description                           : APP包含 IPhone,IPad,macOS客户端,全平台支持苹果设备
     fontawesome_icon_name                 : magic
     
-  - title                                 : 精选格言
-    description                           : 作者为资深投资人，所有格言都是作者从自己的读书笔记和摘抄里精选，完全纯手工
+  - title                                 : 最先进的效率哲学
+    description                           : 用硅谷最新的效率工具OKR管理目标,用番茄工作法将目标落实到执行
     fontawesome_icon_name                 : mobile
 
-  - title                                 : 支持小组件
-    description                           : 格言可以支持小组件配置，直接显示在手机的主屏上
+  - title                                 : 白噪声
+    description                           : 提供多场景白噪声,让工作时如同置身于自然
     fontawesome_icon_name                 : play-circle
 
   # - title                                 : Automatic Icon and Metadata
