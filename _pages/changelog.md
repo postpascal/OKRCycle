@@ -1,65 +1,105 @@
 ---
 layout: page
-title: What's New
-include_in_header: true
+title: 版本更新记录
+include_in_header: false
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
 
-<br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## `Latest`
 
-<br>
+## Version 0.3.0
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+`更新于2022.02.10`
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- 优化日期显示
+- 修复BUG
 
-<br>
+## Version 0.2.9
 
-________
-<br>
+`更新于2022.01.17`
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+- 新增主题
+- 修复收藏功能
+## Version 0.2.8
 
-<br>
+`更新于2022.01.16`
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- 完善收藏功能
+- 修复BUG
+- ASO
+## Version 0.2.5
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+`更新于2022.01.05`
 
-<br>
+- 新增主题
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## Version 0.2.2
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+`更新于2021.12.22`
 
-<br>
+- 增加新的主题
+- 编辑功能增加自定义背景
+- 编辑功能增加毛玻璃效果
+- 语录内容调整
+- 语录文字颜色调整
+- 语录展现格式优化
+
+## Version 0.2.0
+
+`更新于2021.11.03`
+
+
+* 新增通知推送
+* BUG FIX
+* 更换主题背景
+* 调整小组件文字布局
+
+
+
+## Version 0.1.1
+
+`更新于2021.10.28`
+
+
+* 支持IOS14+
+* BUG FIX
+* 更换主题背景
+* 购买界面新增loading动画
+
+
+
+## `Initial Release`
+
+## Version 0.1.0
+`2021年10月26日上线`
+
+主要功能：
+
+* 显示最近的7条投资格言，每天更新一句
+* 格言囊括全球最顶级投资人: 
+  * 股神【沃伦·巴菲特】
+  * 巴菲特的黄金搭档，百科全书式的投资人【查理·芒格】
+  * 价值投资的开创者，巴菲特的老师【本杰明·格雷厄姆】
+  * 红杉中国【沈南鹏】
+  * 高瓴资本【张磊】
+  * 中国股神【林园】
+  * 橡树资本【霍华德·马克思】
+  * 哥谭资本【乔尔·格林布拉特】
+  * 黑石集团【苏世民】
+  * 最伟大的交易者【杰西·利弗莫尔】
+  * 最卓越的基金经理【彼得·林奇】
+  * 传奇交易员，黑天鹅的作者【纳西姆·尼古拉斯·塔勒布】
+  * 投资哲学家【索罗斯】，环球投资人【罗杰斯】等更多投资语录正在更新中。
+* 格言收集自专业投资人的读书笔记，每天一条都是由其手工整理，每一条都是投资大师的精髓
+* 自定义小组件，可以让投资格言直接显示在主屏上，不经意间
+* 包含丰富的主题，图片背景都来自Unsplash最优秀的作品
+* 包含动态主题，每天都能自动更新背景
+* 自定义范围大：包含文字大小，字体，文字位置，字体颜色
+* 支持朗读文字
+* 支持收藏格言
+* 支持下载保存图片
