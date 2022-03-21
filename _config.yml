@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : IOS全平台
     description                           : APP包含 IPhone,IPad,macOS客户端,全平台支持苹果设备
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : sync
     
   - title                                 : 最先进的效率哲学
     description                           : 用硅谷最新的效率工具OKR管理目标,用番茄工作法将目标落实到执行
@@ -47,29 +47,29 @@ features                                  :
     description                           : 提供多场景白噪声,让工作时如同置身于自然
     fontawesome_icon_name                 : play-circle
 
-  # - title                                 : Automatic Icon and Metadata
-  #   description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-  #   fontawesome_icon_name                 : sync
+  - title                                 : Automatic Icon and Metadata
+    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    fontawesome_icon_name                 : fa-space-shuttle
 
-  # - title                                 : Easy to Tweak
-  #   description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-  #   fontawesome_icon_name                 : adjust
+  - title                                 : Easy to Tweak
+    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : adjust
   
-  # - title                                 : Feature List
-  #   description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-  #   fontawesome_icon_name                 : star
+  - title                                 : Feature List
+    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : star
 
-  # - title                                 : Smart App Banner
-  #   description                           : Display a smart app banner on iOS devices.
-  #   fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Smart App Banner
+    description                           : Display a smart app banner on iOS devices.
+    fontawesome_icon_name                 : arrow-alt-circle-down
 
-  # - title                                 : Social Links
-  #   description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-  #   fontawesome_icon_name                 : link
+  - title                                 : Social Links
+    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : link
 
-  # - title                                 : FontAwesome Support
-  #   description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-  #   fontawesome_icon_name                 : info-circle
+  - title                                 : FontAwesome Support
+    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
