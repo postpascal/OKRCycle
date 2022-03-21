@@ -59,13 +59,13 @@ features                                  :
     description                           : 高效的目标管理方法，由Google发扬光大，被国内互联网公司所推崇使用
     fontawesome_icon_name                 : fa-solid fa-bullseye
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : 番茄工作法
+    description                           : 简单易行的时间管理方法，让自己最好的精力全情投入
+    fontawesome_icon_name                 : fa-solid fa-clock
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : 时间周期
+    description                           : 实现OKR的过程里，配备周期进度，更好把握目标的执行，不仅知道我们要去哪，还能时刻知道我们在哪
+    fontawesome_icon_name                 : fa-solid fa-clock-rotate-left
 
   - title                                 : FontAwesome Support
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
