@@ -35,13 +35,30 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+
+  - title                                 : 最先进的效率哲学
+    description                           : 用硅谷最新的效率工具OKR管理目标,用番茄工作法将目标落实到执行
+    fontawesome_icon_name                 : fa-solid fa-shuttle-space
+
   - title                                 : IOS全平台
     description                           : APP覆盖 IPhone,IPad,macOS,全平台支持苹果设备
     fontawesome_icon_name                 : fa-brands fa-apple
     
-  - title                                 : 最先进的效率哲学
-    description                           : 用硅谷最新的效率工具OKR管理目标,用番茄工作法将目标落实到执行
-    fontawesome_icon_name                 : fa-solid fa-shuttle-space
+  - title                                 : 云存储
+    description                           : 数据云存储，无需备份，不怕丢失，IOS全平台所有设备时刻保持同步
+    fontawesome_icon_name                 : fa-solid fa-cloud
+
+  - title                                 : OKR
+    description                           : 高效的目标管理方法，由Google发扬光大，被国内互联网公司所推崇使用
+    fontawesome_icon_name                 : fa-solid fa-bullseye
+
+  - title                                 : 番茄工作法
+    description                           : 简单易行的时间管理方法，让自己最好的精力全情投入
+    fontawesome_icon_name                 : fa-solid fa-clock
+
+  - title                                 : 代办事项
+    description                           : OKR的制定后，需要将其分解成每个切实可行的小事项。
+    fontawesome_icon_name                 : fa-solid fa-square-check
 
   - title                                 : 白噪声
     description                           : 提供多场景白噪声,让工作如同置身于自然
@@ -51,25 +68,11 @@ features                                  :
     description                           : 包含饼图，柱状图，时间线图等。方便查看自己取得的成果和复盘。
     fontawesome_icon_name                 : fa-solid fa-chart-simple
 
-  - title                                 : 代办事项
-    description                           : OKR的制定后，需要将其分解成每个切实可行的小事项。
-    fontawesome_icon_name                 : fa-solid fa-square-check
-  
-  - title                                 : OKR
-    description                           : 高效的目标管理方法，由Google发扬光大，被国内互联网公司所推崇使用
-    fontawesome_icon_name                 : fa-solid fa-bullseye
-
-  - title                                 : 番茄工作法
-    description                           : 简单易行的时间管理方法，让自己最好的精力全情投入
-    fontawesome_icon_name                 : fa-solid fa-clock
-
   - title                                 : 时间周期
     description                           : 实现OKR的过程里，配备周期进度，更好把握目标的执行，不仅知道我们要去哪，还能时刻知道我们在哪
     fontawesome_icon_name                 : fa-solid fa-clock-rotate-left
 
-  - title                                 : 云存储
-    description                           : 数据云存储，无需备份，不怕丢失，IOS全平台所有设备时刻保持同步
-    fontawesome_icon_name                 : fa-solid fa-cloud
+
 
 
 # Theme Settings
