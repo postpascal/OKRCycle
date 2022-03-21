@@ -71,15 +71,6 @@ features                                  :
     description                           : 数据云存储，无需备份，不怕丢失，IOS全平台所有设备时刻保持同步
     fontawesome_icon_name                 : fa-solid fa-cloud
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
 
 # Theme Settings
 topbar_color                              : "#000000"
