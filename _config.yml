@@ -41,15 +41,15 @@ features                                  :
     
   - title                                 : 最先进的效率哲学
     description                           : 用硅谷最新的效率工具OKR管理目标,用番茄工作法将目标落实到执行
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : fa-solid fa-shuttle-space
 
   - title                                 : 白噪声
     description                           : 提供多场景白噪声,让工作时如同置身于自然
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : fa-solid fa-headphones
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : fa-brands fa-app-store
+  - title                                 : 多种图表
+    description                           : 把任务用时钟记录下来，提供每天，每周的统计记录。
+    fontawesome_icon_name                 : fa-solid fa-chart-simple
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
