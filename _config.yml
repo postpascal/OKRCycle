@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : IOS全平台
     description                           : APP包含 IPhone,IPad,macOS客户端,全平台支持苹果设备
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : fa-brands fa-apple
     
   - title                                 : 最先进的效率哲学
     description                           : 用硅谷最新的效率工具OKR管理目标,用番茄工作法将目标落实到执行
@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : app-store
+    fontawesome_icon_name                 : fa-brands fa-app-store
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
