@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : IOS全平台
-    description                           : APP包含 IPhone,IPad,macOS客户端,全平台支持苹果设备
+    description                           : APP覆盖 IPhone,IPad,macOS,全平台支持苹果设备
     fontawesome_icon_name                 : fa-brands fa-apple
     
   - title                                 : 最先进的效率哲学
@@ -44,20 +44,20 @@ features                                  :
     fontawesome_icon_name                 : fa-solid fa-shuttle-space
 
   - title                                 : 白噪声
-    description                           : 提供多场景白噪声,让工作时如同置身于自然
+    description                           : 提供多场景白噪声,让工作如同置身于自然
     fontawesome_icon_name                 : fa-solid fa-headphones
 
   - title                                 : 多种图表
-    description                           : 把任务用时钟记录下来，提供每天，每周的统计记录。
+    description                           : 包含饼图，柱状图，时间线图等。方便查看自己取得的成果和复盘。
     fontawesome_icon_name                 : fa-solid fa-chart-simple
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : 代办事项
+    description                           : OKR的制定后，需要将其分解成每个切实可行的小事项。
+    fontawesome_icon_name                 : fa-solid fa-square-check
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : OKR
+    description                           : 高效的目标管理方法，由Google发扬光大，被国内互联网公司所推崇使用
+    fontawesome_icon_name                 : fa-solid fa-bullseye
 
   - title                                 : Smart App Banner
     description                           : Display a smart app banner on iOS devices.
