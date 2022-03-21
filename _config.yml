@@ -67,6 +67,10 @@ features                                  :
     description                           : 实现OKR的过程里，配备周期进度，更好把握目标的执行，不仅知道我们要去哪，还能时刻知道我们在哪
     fontawesome_icon_name                 : fa-solid fa-clock-rotate-left
 
+  - title                                 : 云存储
+    description                           : 数据云存储，无需备份，不怕丢失，IOS全平台所有设备时刻保持同步
+    fontawesome_icon_name                 : fa-solid fa-cloud
+
   - title                                 : FontAwesome Support
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : info-circle
