@@ -40,4 +40,4 @@ include_in_header: false
 
 > 需要注意的是番茄工作法是1980年代产生，四十多年的时间虽然验证了该方法的有效性，但是不是所有类型的工作都应该设定为25分钟的工作块。例如程序员在写代码的时候是需要长时间的专注，25分钟会打乱节奏，导致碎片化。我个人一般是设定2小时工作块。所以建议根据个人的具体工作灵活设定时长。
 
-<img src="../assets/Milestone.svg" alt="drawing" width="100"/>
+<img src="../assets/Milestone.svg" alt="Milestone"  class="center" width="400"/>
