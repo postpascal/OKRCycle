@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "QNM84WY6LL.com.metaorder.OKRTomato",//把TeamID和BundleID换成你项目真实的值
+                "paths": [ "*"]
+            }
+            //如果你有多个项目，要用同一个apple-app-site-association文件，可以在如下面添加
+            //,
+            //{
+            //    "appID": "TeamID2.BundleID2",//把TeamID和BundleID换成你项目真实的值
+            //    "paths": [ "*"]
+           // }
+        ]
+    }
+}
