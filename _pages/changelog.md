@@ -4,12 +4,12 @@ title: 版本更新记录
 include_in_header: false
 ---
 
-# Changelog
+# 版本更新记录
 
 
 
 
-## `Latest`
+## `最新`
 
 ## Version 0.2.1
 
