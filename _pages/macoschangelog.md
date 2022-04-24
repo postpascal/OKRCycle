@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 版本更新记录
+title: MacOS更新记录
 include_in_header: false
 ---
 
@@ -10,6 +10,13 @@ include_in_header: false
 
 
 ## `最新`
+
+## Version 0.3.1
+
+`更新于2022.4.24`
+
+* 修复现有问题
+* 优化用户体验
 
 ## Version 0.3.0
 
