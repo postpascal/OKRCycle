@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MacOS更新记录
-include_in_header: true
+include_in_header: false
 ---
 
 # 版本更新记录

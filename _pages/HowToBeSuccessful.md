@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 如何成功
-include_in_header: false
+include_in_header: true
 
 ---
 # 如何成功
