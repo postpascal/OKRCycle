@@ -23,8 +23,10 @@ include_in_header: true
 
 ![](../assets/1565925836593.png)
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<center>
+<iframe width="500" height="350" src="https://www.youtube.com/watch?v=ryD8lfSEGio">
 </iframe>
+</center>
 
 关于达利欧的论述可以总结为以下几点：
 1. 首先，你要选择你追求什么，什么是你的目标，目标应该明确，不能含含糊糊。
