@@ -24,7 +24,7 @@ include_in_header: true
 ![](../assets/1565925836593.png)
 
 <center>
-<iframe width="700" height="350"
+<iframe width="700" height="370"
 src="https://www.youtube.com/embed/ryD8lfSEGio">
 </iframe>
 </center>
