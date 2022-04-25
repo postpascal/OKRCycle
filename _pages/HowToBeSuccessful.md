@@ -23,11 +23,17 @@ include_in_header: true
 
 ![](../assets/1565925836593.png)
 
+
 <center>
-<iframe width="700" height="390"
+<div style="position: relative; padding: 30% 45%;"> 
+<iframe  style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https//player.bilibili.com/player.html?aid=213483218&bvid=BV1qa411Y74B&cid=584653584&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400"> </iframe>
+</div>
+</center>
+<center>
+<!-- <iframe width="700" height="390"
 src="https://www.youtube.com/embed/ryD8lfSEGio">
 </iframe>
-</center>
+</center> -->
 
 关于达利欧的论述可以总结为以下几点：
 1. 首先，你要选择你追求什么，什么是你的目标，目标应该明确，不能含含糊糊。
