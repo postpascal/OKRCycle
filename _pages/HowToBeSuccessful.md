@@ -25,7 +25,7 @@ include_in_header: true
 
 
 <center>
-<iframe  style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https//player.bilibili.com/player.html?aid=213483218&bvid=BV1qa411Y74B&cid=584653584&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400"> </iframe>
+<iframe  src="https//player.bilibili.com/player.html?aid=213483218&bvid=BV1qa411Y74B&cid=584653584&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400"> </iframe>
 </center>
 <!-- <center> -->
 <!-- <iframe width="700" height="390"
