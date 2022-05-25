@@ -10,7 +10,11 @@ include_in_header: false
 
 
 ## `最新`
+## Version 0.7.0
 
+`更新于2022.5.17`
+
+* OKR 进度支持自动更新
 ## Version 0.6.0
 
 `更新于2022.5.8`
