@@ -10,6 +10,11 @@ include_in_header: false
 
 
 ## `最新`
+## Version 0.9.0
+
+`更新于2022.6.2`
+
+* 支持小组件
 ## Version 0.8.0
 
 `更新于2022.5.25`
