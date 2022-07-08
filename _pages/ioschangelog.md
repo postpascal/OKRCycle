@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IOS更新记录
+title: iOS更新记录
 include_in_header: false
 ---
 

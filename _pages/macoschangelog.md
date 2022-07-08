@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MacOS更新记录
+title: macOS更新记录
 include_in_header: false
 ---
 

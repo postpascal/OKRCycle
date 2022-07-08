@@ -40,7 +40,7 @@ features                                  :
     description                           : 用硅谷最新的效率工具OKR管理目标,用番茄工作法将目标落实到执行
     fontawesome_icon_name                 : fa-solid fa-shuttle-space
 
-  - title                                 : IOS全平台
+  - title                                 : iOS全平台
     description                           : APP覆盖 IPhone,IPad,macOS,全平台支持苹果设备
     fontawesome_icon_name                 : fa-brands fa-apple
     
