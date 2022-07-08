@@ -10,7 +10,11 @@ include_in_header: false
 
 
 ## `最新`
+## Version 0.9.6
 
+`更新于2022.7.7`
+
+* 问题修复
 ## Version 0.9.0
 
 `更新于2022.5.30`

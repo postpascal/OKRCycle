@@ -10,6 +10,12 @@ include_in_header: false
 
 
 ## `最新`
+
+## Version 1.0.0
+
+`更新于2022.7.8`
+
+* 新增日历功能
 ## Version 0.9.0
 
 `更新于2022.6.2`
